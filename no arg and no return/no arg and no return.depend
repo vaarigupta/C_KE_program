@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486321541 source:a:\c programming\no arg and no return\main.c
+	<stdio.h>
+	<stdlib.h>
+

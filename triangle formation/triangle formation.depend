@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484912784 source:a:\c programming\triangle formation\main.c
+	<stdio.h>
+	<stdlib.h>
+

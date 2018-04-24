@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496239223 source:a:\c programming\dowhileloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
